@@ -1,0 +1,25 @@
+name: RvsH
+version: 1.0.0
+main: com.colink02dev.HunterVSRunner
+
+load: POSTWORLD
+author: Colin Kinzel (Colink02Dev)
+website: colink02dev.com
+default-permission: true
+
+commands:
+  join:
+    description: Join hunter or runner (if available)
+    usage: /join <hunter/runner>
+  start:
+    description: Start the game
+    usage: /Start
+  reset:
+    description: Reset the game
+    usage: /reset
+  swap:
+    description: Swap Roles(Only runner may swap roles)
+    usage: /swap
+  create:
+    description: Make new Game Session
+    usage: /create
