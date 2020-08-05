@@ -5,3 +5,6 @@ Just some things I might add at some point if I ever feel like going back to thi
 - Fix any other bugs
 - Players can play in a new game or spectate another one.
 - Allow same player to be able to have multiple sessions
+- Make sure they can't play if a player is in another game OR offline.
+- show players joining
+- player list command
